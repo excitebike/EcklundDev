@@ -326,6 +326,7 @@ public class QuickFind extends FormRun
 		<Pattern xmlns="">Custom</Pattern>
 		<ShowDeleteButton xmlns="">No</ShowDeleteButton>
 		<ShowNewButton xmlns="">No</ShowNewButton>
+		<Style xmlns="">Dialog</Style>
 		<Controls xmlns="">
 			<AxFormControl xmlns=""
 				i:type="AxFormActionPaneControl">
@@ -465,7 +466,6 @@ public class QuickFind extends FormRun
 					</AxFormControl>
 				</Controls>
 				<ArrangeMethod>Auto</ArrangeMethod>
-				<Columns>3</Columns>
 				<ViewEditMode>Edit</ViewEditMode>
 			</AxFormControl>
 			<AxFormControl xmlns=""
