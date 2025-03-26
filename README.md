@@ -1,6 +1,6 @@
 # EcklundDev
 
-Proof of Concept platform related projects developed supported customers
+Proof of Concept platform related projects developed to support customers
 
 **Quick Find**
 
